@@ -1,1 +1,3 @@
 this is folder from test/learn-GitHub folder
+
+now it is received in test2/learn-GitHub folder
